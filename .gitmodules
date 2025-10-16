@@ -1,0 +1,8 @@
+[submodule "llvm"]
+	path = llvm
+	url = https://github.com/meetzaa/llvm-wYUVRGB
+	branch = main
+[submodule "fpga"]
+	path = fpga
+	url = https://openbeagle.org/Luciana.lm11/testing-gateware.git
+	branch = main
