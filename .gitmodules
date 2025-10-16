@@ -4,5 +4,5 @@
 	branch = main
 [submodule "fpga"]
 	path = fpga
-	url = https://openbeagle.org/Luciana.lm11/testing-gateware.git
-	branch = main
+	url = https://git.beagleboard.org/Luciana.lm11/testing-gateware.git
+	branch = optimized_apb_conversion
