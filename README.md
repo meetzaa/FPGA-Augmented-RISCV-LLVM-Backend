@@ -134,7 +134,7 @@ The pseudo-instruction emitted by LLVM triggers:
 
 | Layer | Description | Repository / Commit |
 |--------|--------------|---------------------|
-| **LLVM Backend** | Custom RISC-V pseudo-instruction and builtin for YUV→RGB | [github.com/meetzaa/llvm-wYUVRGB/tree/f146e5c13c6cde08d916f97605ea381ac8b1cca0](https://github.com/meetzaa/llvm-wYUVRGB/tree/f146e5c13c6cde08d916f97605ea381ac8b1cca0) |
+| **LLVM Backend** | Custom RISC-V pseudo-instruction and builtin for YUV→RGB | [https://github.com/meetzaa/llvm-wYUVRGB](https://github.com/meetzaa/llvm-wYUVRGB) |
 | **FPGA Accelerator** | Verilog design (optimized APB conversion, BeagleV-Fire) | [git.beagleboard.org/Luciana.lm11/testing-gateware/-/tree/optimized_apb_conversion](https://git.beagleboard.org/Luciana.lm11/testing-gateware/-/tree/optimized_apb_conversion?ref_type=heads) |
 
 ---
